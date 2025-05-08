@@ -1,7 +1,8 @@
 # About
 
 # Fork notice
-  This fork of VinURL was made in compliance with its Creative Commons License. All credit for everything but the changed Custom Disc texture goes to the contributors, creators and maintainers of the original VinURL mod.
+  This fork of VinURL was made in compliance with its Creative Commons License. All credit for everything but the changed Custom Disc texture goes to the contributors, creators and maintainers of the original VinURL mod.  
+  Texture made by MildToucan by changing the Precipice disc's texture via the Aseprite software.
 
 -----
 
