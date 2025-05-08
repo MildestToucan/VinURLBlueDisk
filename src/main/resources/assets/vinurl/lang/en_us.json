@@ -1,5 +1,5 @@
 {
-  "item.vinurl.custom_record": "Blue Disk",
+  "item.vinurl.custom_record": "Blue Disc",
   "item.vinurl.custom_record.desc": "No Song",
   "text.config.VinURLConfig.option.UpdateCheckingOnStartup": "Auto Updates",
   "text.config.VinURLConfig.option.UpdateCheckingOnStartup.tooltip": "Update checks on startup for the YT-Downloader & FFmpeg",
