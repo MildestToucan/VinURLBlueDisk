@@ -1,5 +1,12 @@
 # About
 
+# Fork notice
+  This fork of VinURL was made in compliance with its Creative Commons License. All credit for everything but the changed Custom Disc texture goes to the contributors, creators and maintainers of the original VinURL mod.
+
+-----
+
+
+
 VinURL is an exciting fork of the popular [URL Music Discs](https://modrinth.com/mod/url-music-discs) mod by [Hoofer](https://github.com/HooferDevelops). 
 With the Custom Music Disc, players can download and play any cloud-hosted audio file directly in Minecraft or download
 them from YouTube or other supported [Sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md), all via a URL, creating a personalized musical experience like never before.
